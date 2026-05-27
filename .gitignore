@@ -1,0 +1,26 @@
+# Credentials
+credentials.txt
+client_secret.json
+*.pem
+
+# Database files
+*.db
+
+# Sessions
+.sessions/
+frontend/.sessions/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
